@@ -1,4 +1,4 @@
-# Currency-Converter-
+# Currency-Converter
 5- Currency Converter Develop an exciting project through which you can convert currencies. This project which will boost your confidence. For a user interface, we can use tkinter API
 member 1 : حميد حسن محمد النبوي
 Hameed Hassan Muhammad El-Nabawy
